@@ -1,5 +1,5 @@
 {
-  "name": "education-analytics-platform",
+  "name": "vite-react-typescript-starter",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,7 +13,8 @@
     "@supabase/supabase-js": "^2.39.7",
     "lucide-react": "^0.344.0",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "recharts": "^2.12.2"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.1",
